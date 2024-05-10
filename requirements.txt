@@ -2,5 +2,5 @@ pandas
 numpy
 torch
 scikit-learn
-opencv-python
+opencv
 matplotlib

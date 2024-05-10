@@ -2,6 +2,5 @@ pandas
 numpy
 pytorch
 matplotlib
-openCV
 scikit
 python>=3.9

@@ -1,3 +1,6 @@
 pandas
 numpy
 torch
+scikit-learn
+opencv-python
+matplotlib
